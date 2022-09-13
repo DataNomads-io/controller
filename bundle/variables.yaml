@@ -1,0 +1,4 @@
+variables:
+- team: DataNomads-io
+- admin-user: erdnbt-admin
+- manager-user: erdnbt
